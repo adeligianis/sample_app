@@ -1,5 +1,9 @@
-1331998896
+1332000784
 Application	C:/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 SampleApp	C:/Sites/sample_app/config/application.rb	module SampleApp
+StaticPagesController	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
+StaticPagesHelper	C:/Sites/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+help	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def help
+home	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def home

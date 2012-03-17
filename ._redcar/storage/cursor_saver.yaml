@@ -3,4 +3,16 @@ cursor_positions:
   - :path: README.rdoc
     :cursor_offset: 208
     :timestamp: 2012-03-17 11:41:07.652000 -04:00
+  - :path: Gemfile
+    :cursor_offset: 52
+    :timestamp: 2012-03-17 11:33:44.580000 -04:00
+  - :path: public/hello.html
+    :cursor_offset: 45
+    :timestamp: 2012-03-17 11:57:24.699000 -04:00
+  - :path: public/index.html
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 11:30:24.785000 -04:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-03-17 11:30:23.096000 -04:00
 files_to_retain: 0
