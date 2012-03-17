@@ -1,4 +1,6 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: README.rdoc
+    :cursor_offset: 208
+    :timestamp: 2012-03-17 11:41:07.652000 -04:00
 files_to_retain: 0
