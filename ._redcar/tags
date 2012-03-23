@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1332545473
+=======
+1332545345
+>>>>>>> filling-in-layout
 About page	C:/Sites/sample_app/spec/requests/static_pages_spec.rb	describe "About page" do
 Application	C:/Sites/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/Sites/sample_app/app/controllers/application_controller.rb	class ApplicationController 
@@ -10,8 +14,17 @@ SampleApp	C:/Sites/sample_app/config/application.rb	module SampleApp
 Static pages	C:/Sites/sample_app/spec/requests/static_pages_spec.rb	describe "Static pages" do
 StaticPagesController	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	class StaticPagesController 
 StaticPagesHelper	C:/Sites/sample_app/app/helpers/static_pages_helper.rb	module StaticPagesHelper
+User pages	C:/Sites/sample_app/spec/requests/user_pages_spec.rb	describe "User pages" do
+UsersController	C:/Sites/sample_app/app/controllers/users_controller.rb	class UsersController 
+UsersHelper	C:/Sites/sample_app/app/helpers/users_helper.rb	module UsersHelper
 about	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def about
 contact	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def contact
 full_title	C:/Sites/sample_app/app/helpers/application_helper.rb	  def full_title(page_title)
+full_title	C:/Sites/sample_app/spec/support/utilities.rb	def full_title(page_title)
 help	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def help
 home	C:/Sites/sample_app/app/controllers/static_pages_controller.rb	  def home
+<<<<<<< HEAD
+=======
+new	C:/Sites/sample_app/app/controllers/users_controller.rb	  def new
+signup page	C:/Sites/sample_app/spec/requests/user_pages_spec.rb	describe "signup page" do
+>>>>>>> filling-in-layout

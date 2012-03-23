@@ -1,3 +1,13 @@
 --- 
+<<<<<<< HEAD
 open_files: []
 
+=======
+open_files: 
+  - app/views/layouts/application.html.erb
+  - app/views/static_pages/home.html.erb
+  - app/assets/stylesheets/custom.css.scss
+  - app/views/layouts/_shim.html.erb
+  - app/views/layouts/_header.html.erb
+  - app/views/layouts/_footer.html.erb
+>>>>>>> filling-in-layout
