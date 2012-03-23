@@ -1,6 +1,3 @@
 --- 
-open_files: 
-  - app/views/layouts/application.html.erb
-  - app/helpers/application_helper.rb
-  - app/views/static_pages/home.html.erb
-  - spec/requests/static_pages_spec.rb
+open_files: []
+
