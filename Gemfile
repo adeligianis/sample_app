@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.2'
+gem 'jquery-rails', '2.0.0'
 gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
 gem 'railties', '3.2.2'
@@ -11,9 +12,9 @@ gem 'bootstrap-will_paginate', '0.0.5'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development, :test do
   gem 'sqlite3', '1.3.5'
-  gem 'rspec-rails', '2.8.1'
+  gem 'rspec-rails', '2.9.0'
   gem 'annotate', '~> 2.4.1.beta'
-  gem 'factory_girl_rails', '1.4.0'
+  
 end
 
 # Gems used only for assets and not required
@@ -32,6 +33,7 @@ gem 'jquery-rails', '2.0.0'
 
 group :test do
   gem 'capybara', '1.1.2'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 group :production do
